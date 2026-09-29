@@ -1,0 +1,14 @@
+[project]
+name = "cloudleak-sentinel"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn>=0.30",
+  "pydantic>=2.8",
+  "requests>=2.32",
+  "python-multipart>=0.0.9",
+]
+
+[project.scripts]
+cloudleak = "sentinel.cli:main"

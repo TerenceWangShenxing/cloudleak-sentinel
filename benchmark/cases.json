@@ -1,0 +1,122 @@
+[
+  {
+    "id": "aws-ak",
+    "expected": "AWS Access Key ID",
+    "text_b64": "QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUFCQ0RFRkdISUpLTE1OT1A="
+  },
+  {
+    "id": "aws-pair",
+    "expected": "AWS AK/SK Pair",
+    "text_b64": "QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUFCQ0RFRkdISUpLTE1OT1AKQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPVE3bTJYOXA0Szh2M042czFENWYwSDJqN0w0YzhSOXQ2VzF5M1U1aTc="
+  },
+  {
+    "id": "huawei-pair",
+    "expected": "Huawei Cloud AK/SK Pair",
+    "text_b64": "SFVBV0VJX0FDQ0VTU19LRVk9QUIxMkNEMzRFRjU2R0g3OElKOTAKSFVBV0VJX1NFQ1JFVF9LRVk9WDlxN00yazRSOHYxTjZzM0Q1ZjBIMmo3TDRjOA=="
+  },
+  {
+    "id": "aliyun-ak",
+    "expected": "Alibaba Cloud AccessKey ID",
+    "text_b64": "QUxJWVVOX0FDQ0VTU19LRVlfSUQ9TFRBSTV0UTdtMlg5cDRLOHYzTjY="
+  },
+  {
+    "id": "aliyun-pair",
+    "expected": "Alibaba Cloud AK/SK Pair",
+    "text_b64": "QUxJWVVOX0FDQ0VTU19LRVlfSUQ9TFRBSTV0UTdtMlg5cDRLOHYzTjYKQUxJWVVOX0FDQ0VTU19LRVlfU0VDUkVUPVE4djFONnMzRDVmMEgyajdMNGM4Ujl0NlcxeTM="
+  },
+  {
+    "id": "tencent-id",
+    "expected": "Tencent Cloud SecretId",
+    "text_b64": "VEVOQ0VOVF9TRUNSRVRfSUQ9QUtJRFE3TTJYOVA0SzhWM042UzFENUYwSDJKN0w0Qzg="
+  },
+  {
+    "id": "tencent-pair",
+    "expected": "Tencent Cloud SecretId/SecretKey Pair",
+    "text_b64": "VEVOQ0VOVF9TRUNSRVRfSUQ9QUtJRFE3TTJYOVA0SzhWM042UzFENUYwSDJKN0w0QzgKVEVOQ0VOVF9TRUNSRVRfS0VZPVI4djFONnMzRDVmMEgyajdMNGM4UTl0NlcxeTM="
+  },
+  {
+    "id": "github-token",
+    "expected": "GitHub Token",
+    "text_b64": "dG9rZW49Z2hwX1E3bTJYOXA0Szh2M042czFENWYwSDJqN0w0YzhSOXQ2VzF5M1U1aTc="
+  },
+  {
+    "id": "oauth-secret",
+    "expected": "OAuth Client Secret",
+    "text_b64": "Y2xpZW50X3NlY3JldD1RN20yWDlwNEs4djNONnMxRDVmMEgyajdMNGM4"
+  },
+  {
+    "id": "db-uri",
+    "expected": "Database URI",
+    "text_b64": "REFUQUJBU0VfVVJMPXBvc3RncmVzcWw6Ly9zdmNfdXNlcjpRN20yWDlwNEs4djNAZGIuZXhhbXBsZS5pbnZhbGlkOjU0MzIvYXBw"
+  },
+  {
+    "id": "jwt",
+    "expected": "JWT",
+    "text_b64": "QXV0aG9yaXphdGlvbjogQmVhcmVyIGV5SmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lJeE1qTTBOVFkzT0Rrd0luMC5RN20yWDlwNEs4djNONnMxRDVmMEgyajdMNGM4Ujl0Ng=="
+  },
+  {
+    "id": "password",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "cGFzc3dvcmQ9UTdtMlg5cDRLOHYzTjZzMQ=="
+  },
+  {
+    "id": "api-key",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "YXBpX2tleT1SOHYxTjZzM0Q1ZjBIMmo3"
+  },
+  {
+    "id": "ssh-key",
+    "expected": "SSH Private Key",
+    "text_b64": "LS0tLS1CRUdJTiBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0KYjNCbGJuTnphQzFyWlhrdGRqRUFBQUFBRkFLRUZBS0VGQUtFCi0tLS0tRU5EIE9QRU5TU0ggUFJJVkFURSBLRVktLS0tLQ=="
+  },
+  {
+    "id": "pem-key",
+    "expected": "PEM Private Key",
+    "text_b64": "LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tClFVSkRSRVZHUjBoSlNrdE1UVTVQVUZGU1UxUlZWbGRZV1ZvPQotLS0tLUVORCBQUklWQVRFIEtFWS0tLS0t"
+  },
+  {
+    "id": "neg-short",
+    "expected": null,
+    "text_b64": "cGFzc3dvcmQ9YWJjMTIz"
+  },
+  {
+    "id": "neg-boolean",
+    "expected": null,
+    "text_b64": "YXBpX2tleV9lbmFibGVkPXRydWU="
+  },
+  {
+    "id": "neg-doc",
+    "expected": null,
+    "text_b64": "U2V0IHRoZSBlbnZpcm9ubWVudCB2YXJpYWJsZSBBUElfS0VZIGJlZm9yZSBzdGFydGluZyB0aGUgc2VydmljZS4="
+  },
+  {
+    "id": "neg-url",
+    "expected": null,
+    "text_b64": "aHR0cHM6Ly9leGFtcGxlLmludmFsaWQvZG9jcz90b2tlbml6YXRpb249ZW5hYmxlZA=="
+  },
+  {
+    "id": "neg-hash",
+    "expected": null,
+    "text_b64": "c2hhMjU2PTAxMjM0NTY3ODlhYmNkZWYwMTIzNDU2Nzg5YWJjZGVmMDEyMzQ1Njc4OWFiY2RlZjAxMjM0NTY3ODlhYmNkZWY="
+  },
+  {
+    "id": "neg-uuid",
+    "expected": null,
+    "text_b64": "cmVxdWVzdF9pZD01NTBlODQwMC1lMjliLTQxZDQtYTcxNi00NDY2NTU0NDAwMDA="
+  },
+  {
+    "id": "neg-date",
+    "expected": null,
+    "text_b64": "cmVsZWFzZV90b2tlbl9kYXRlPTIwMjYtMDktMjk="
+  },
+  {
+    "id": "neg-empty",
+    "expected": null,
+    "text_b64": "Y2xpZW50X3NlY3JldD0="
+  },
+  {
+    "id": "neg-prose",
+    "expected": null,
+    "text_b64": "VGhlIHNlY3JldCB0byBnb29kIHNlY3VyaXR5IGlzIGxlYXN0IHByaXZpbGVnZSBhbmQgcmFwaWQgcm90YXRpb24u"
+  }
+]

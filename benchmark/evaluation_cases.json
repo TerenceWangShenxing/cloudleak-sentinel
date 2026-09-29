@@ -1,0 +1,352 @@
+[
+  {
+    "id": "p01",
+    "expected": "AWS Access Key ID",
+    "text_b64": "QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUFCQ0RFRkdISUpLTE1OT1A="
+  },
+  {
+    "id": "p02",
+    "expected": "AWS AK/SK Pair",
+    "text_b64": "QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUFCQ0RFRkdISUpLTE1OT1AKQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPVE3bTJYOXA0Szh2M042czFENWYwSDJqN0w0YzhSOXQ2VzF5M1U1aTc="
+  },
+  {
+    "id": "p03",
+    "expected": "Huawei Cloud AK/SK Pair",
+    "text_b64": "SFVBV0VJX0FDQ0VTU19LRVk9QUIxMkNEMzRFRjU2R0g3OElKOTAKSFVBV0VJX1NFQ1JFVF9LRVk9WDlxN00yazRSOHYxTjZzM0Q1ZjBIMmo3TDRjOA=="
+  },
+  {
+    "id": "p04",
+    "expected": "Alibaba Cloud AK/SK Pair",
+    "text_b64": "QUxJWVVOX0FDQ0VTU19LRVlfSUQ9TFRBSTEyMzQ1Njc4OTBBQkNERUYKQUxJWVVOX0FDQ0VTU19LRVlfU0VDUkVUPVE3bTJYOXA0Szh2M042czFENWYwSDJqNw=="
+  },
+  {
+    "id": "p05",
+    "expected": "Tencent Cloud SecretId/SecretKey Pair",
+    "text_b64": "VEVOQ0VOVF9TRUNSRVRfSUQ9QUtJRDEyMzQ1Njc4OTBhYmNkZWZnaGlqa2xtbm9wcXJzdHV2ClRFTkNFTlRfU0VDUkVUX0tFWT1aOHE0TjdtMlA2eDlSM3Y1SzFzN0QwZjI="
+  },
+  {
+    "id": "p06",
+    "expected": "GitHub Token",
+    "text_b64": "dG9rZW49Z2hwX0ExYjJDM2Q0RTVmNkc3aDhJOWowSzFsMk0zbjRPNXA2UTdyOA=="
+  },
+  {
+    "id": "p07",
+    "expected": "SSH Private Key",
+    "text_b64": "LS0tLS1CRUdJTiBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0KWm1GclpRPT0KLS0tLS1FTkQgT1BFTlNTSCBQUklWQVRFIEtFWS0tLS0t"
+  },
+  {
+    "id": "p08",
+    "expected": "PEM Private Key",
+    "text_b64": "LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tClptRnJaUT09Ci0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS0="
+  },
+  {
+    "id": "p09",
+    "expected": "Database URI",
+    "text_b64": "REFUQUJBU0VfVVJMPXBvc3RncmVzcWw6Ly9zdmM6VjdtMlE5cDRLOHIzQGRiLmFjbWUuaW52YWxpZDo1NDMyL2FwcA=="
+  },
+  {
+    "id": "p10",
+    "expected": "Database URI",
+    "text_b64": "cmVkaXM6Ly9kZWZhdWx0Oks4djNONnMxRDVmMEBjYWNoZS5hY21lLmludmFsaWQ6NjM3OS8w"
+  },
+  {
+    "id": "p11",
+    "expected": "OAuth Client Secret",
+    "text_b64": "b2F1dGhfY2xpZW50X3NlY3JldCA9ICJNb2JpUTdtMlg5cDRLOHYzRDVmMCI="
+  },
+  {
+    "id": "p12",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "YXBpX2tleTogIlE3bTJYOXA0Szh2M042czFENWYwIg=="
+  },
+  {
+    "id": "p13",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "cGFzc3dvcmQgPSAiUEBzc3cwcmQtUTdtMlg5cDQi"
+  },
+  {
+    "id": "p14",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "VE9LRU49WjhxNE43bTJQNng5UjN2NUsxczdEMGYy"
+  },
+  {
+    "id": "p15",
+    "expected": "Slack-style Token",
+    "text_b64": "c2xhY2tfdG9rZW49eG94Yi0xMjM0NTY3ODkwMTItQUJDREVGR0hJSktMTU5PUA=="
+  },
+  {
+    "id": "p16",
+    "expected": "JWT",
+    "text_b64": "YXV0aD1leUpoYkdjaU9pSklVekkxTmlKOS5leUp6ZFdJaU9pSXhNak0wTlRZM09Ea3dJbjAuUTdtMlg5cDRLOHYzTjZzMQ=="
+  },
+  {
+    "id": "p17",
+    "expected": "OAuth Client Secret",
+    "text_b64": "Y2xpZW50LXNlY3JldDonQTl2Mk03azRROHAxTjZzM0Q1ZjAn"
+  },
+  {
+    "id": "p18",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "UFdEOiBON20yUDZ4OVIzdjVLMXM3"
+  },
+  {
+    "id": "p19",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "cGFzc3dkID0gVjhtMks5cTRQN24xRDZzMw=="
+  },
+  {
+    "id": "p20",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "c2VjcmV0X2tleT1SN20yWDlwNEs4djNONnMxRDVmMA=="
+  },
+  {
+    "id": "p21",
+    "expected": "Huawei Cloud AK/SK Pair",
+    "text_b64": "SFdDX0FLPVpYMTJDRDM0RUY1NkdINzhQTDkwCkhXQ19TSz1Db21wUTdtMlg5cDRLOHYzTjZzMUQ1ZjBIMmo3"
+  },
+  {
+    "id": "p22",
+    "expected": "Alibaba Cloud AK/SK Pair",
+    "text_b64": "QUxJQkFCQV9DTE9VRF9BSz1MVEFJQUJDREVGMTIzNDU2Nzg5MApBTElCQUJBX0NMT1VEX1NLPUs5bTJYN3A0VjhyM042czFENWYwSDJqNw=="
+  },
+  {
+    "id": "p23",
+    "expected": "AWS AK/SK Pair",
+    "text_b64": "QVdTX0FLPUFTSUFBQkNERUZHSElKS0xNTk9QCkFXU19TSz1RN20yWDlwNEs4djNONnMxRDVmMEgyajdMNGM4Ujl0NlcxeTNVNWk3"
+  },
+  {
+    "id": "p24",
+    "expected": "Tencent Cloud SecretId/SecretKey Pair",
+    "text_b64": "VEVOQ0VOVF9BSz1BS0lEYWJjZGVmZ2hpamsxMjM0NTY3ODkwbW5vcHFyc3QKVEVOQ0VOVF9TSz1LOHYzTjZzMUQ1ZjBIMmo3TDRjOFI5dDY="
+  },
+  {
+    "id": "p25",
+    "expected": "Database URI",
+    "text_b64": "bXlzcWw6Ly9yb290OlY4bjJRN200SzlwM0BteXNxbC5hY21lLmludmFsaWQvcHJvZA=="
+  },
+  {
+    "id": "p26",
+    "expected": "Database URI",
+    "text_b64": "bW9uZ29kYitzcnY6Ly9zdmM6TjdtMks4djRROXAzQGNsdXN0ZXIuYWNtZS5pbnZhbGlkL2FwcA=="
+  },
+  {
+    "id": "p27",
+    "expected": "GitHub Token",
+    "text_b64": "Z2l0aHViX3BhdD1naG9fQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVoxMjM0NTY3ODkw"
+  },
+  {
+    "id": "p28",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "YXBpLWtleSA9ICJNN3EyWDlwNFY4bjNLNnMxIg=="
+  },
+  {
+    "id": "p29",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "c2VjcmV0ID0gIks3bTJROXY0UDhuM0Q2czEi"
+  },
+  {
+    "id": "p30",
+    "expected": "Generic Secret Assignment",
+    "text_b64": "cHdkPSJWN20yWDlwNEs4bjNRNnMxIg=="
+  },
+  {
+    "id": "n01",
+    "expected": null,
+    "text_b64": "cGFzc3dvcmQgPSBzaG9ydA=="
+  },
+  {
+    "id": "n02",
+    "expected": null,
+    "text_b64": "YXBpX2tleSA9IGFiYzEyMw=="
+  },
+  {
+    "id": "n03",
+    "expected": null,
+    "text_b64": "QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQTEyMw=="
+  },
+  {
+    "id": "n04",
+    "expected": null,
+    "text_b64": "VGhpcyBkb2N1bWVudGF0aW9uIGV4cGxhaW5zIGhvdyB0byByb3RhdGUgYSBwYXNzd29yZCBzYWZlbHku"
+  },
+  {
+    "id": "n05",
+    "expected": null,
+    "text_b64": "Y2xpZW50X3NlY3JldCBzaG91bGQgYmUgbG9hZGVkIGZyb20gdGhlIGVudmlyb25tZW50IGF0IHJ1bnRpbWUu"
+  },
+  {
+    "id": "n06",
+    "expected": null,
+    "text_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KQUFBQQotLS0tLUVORCBQVUJMSUMgS0VZLS0tLS0="
+  },
+  {
+    "id": "n07",
+    "expected": null,
+    "text_b64": "aHR0cHM6Ly9leGFtcGxlLmludmFsaWQvZG9jcz90b2tlbj1wdWJsaWM="
+  },
+  {
+    "id": "n08",
+    "expected": null,
+    "text_b64": "cG9zdGdyZXNxbCBkYXRhYmFzZSB1c2VzIHBvcnQgNTQzMi4="
+  },
+  {
+    "id": "n09",
+    "expected": null,
+    "text_b64": "QUtJRCBpcyBhIHByZWZpeCBtZW50aW9uZWQgaW4gYSBzZWN1cml0eSBndWlkZS4="
+  },
+  {
+    "id": "n10",
+    "expected": null,
+    "text_b64": "TFRBSSBpcyBzaG93biBoZXJlIG9ubHkgYXMgYSBwcmVmaXgu"
+  },
+  {
+    "id": "n11",
+    "expected": null,
+    "text_b64": "cmFuZG9tX2lkZW50aWZpZXI9QUJDREVGMTIzNDU2Nzg5MA=="
+  },
+  {
+    "id": "n12",
+    "expected": null,
+    "text_b64": "Y2hlY2tzdW09MDEyMzQ1Njc4OWFiY2RlZjAxMjM0NTY3ODlhYmNkZWY="
+  },
+  {
+    "id": "n13",
+    "expected": null,
+    "text_b64": "dmVyc2lvbl90b2tlbml6YXRpb24gPSBlbmFibGVk"
+  },
+  {
+    "id": "n14",
+    "expected": null,
+    "text_b64": "c2VjcmV0YXJ5PUFsaWNl"
+  },
+  {
+    "id": "n15",
+    "expected": null,
+    "text_b64": "bW9ua2V5X3Bhc3N3b3JkX3BvbGljeT10cnVl"
+  },
+  {
+    "id": "n16",
+    "expected": null,
+    "text_b64": "cmVkaXM6Ly9jYWNoZS5leGFtcGxlLmludmFsaWQ6NjM3OQ=="
+  },
+  {
+    "id": "n17",
+    "expected": null,
+    "text_b64": "bXlzcWw6Ly9kYi5leGFtcGxlLmludmFsaWQvYXBw"
+  },
+  {
+    "id": "n18",
+    "expected": null,
+    "text_b64": "ZXlKbm90LmEudmFsaWRqd3Q="
+  },
+  {
+    "id": "n19",
+    "expected": null,
+    "text_b64": "Z2hwX3Rvb19zaG9ydA=="
+  },
+  {
+    "id": "n20",
+    "expected": null,
+    "text_b64": "eG94Yi1zaG9ydA=="
+  },
+  {
+    "id": "x01",
+    "expected": null,
+    "text_b64": "cGFzc3dvcmQ9ZXhhbXBsZXBhc3N3b3JkMTIz"
+  },
+  {
+    "id": "x02",
+    "expected": null,
+    "text_b64": "YXBpX2tleT1zYW1wbGVfQTFCMkMzRDRFNUY2RzdIOA=="
+  },
+  {
+    "id": "x03",
+    "expected": null,
+    "text_b64": "dG9rZW49ZHVtbXlfUTdtMlg5cDRLOHYzTjZzMQ=="
+  },
+  {
+    "id": "x04",
+    "expected": null,
+    "text_b64": "Y2xpZW50X3NlY3JldD1jaGFuZ2VtZV9RN20yWDlwNEs4djM="
+  },
+  {
+    "id": "x05",
+    "expected": null,
+    "text_b64": "c2VjcmV0X2tleT1ub3RfcmVhbF9RN20yWDlwNEs4djM="
+  },
+  {
+    "id": "x06",
+    "expected": null,
+    "text_b64": "cGFzc3dvcmQ9dGVzdF9vbmx5X1Y3bTJYOXA0SzhuMw=="
+  },
+  {
+    "id": "x07",
+    "expected": null,
+    "text_b64": "YXBpX2tleT1wbGFjZWhvbGRlcl9RN20yWDlwNEs4djM="
+  },
+  {
+    "id": "x08",
+    "expected": null,
+    "text_b64": "dG9rZW49eW91cl9rZXlfUTdtMlg5cDRLOHYzTjZzMQ=="
+  },
+  {
+    "id": "x09",
+    "expected": null,
+    "text_b64": "SFVBV0VJX0FDQ0VTU19LRVk9RVhBTVBMRTEyMzQ1Njc4OTAxMjM0CkhVQVdFSV9TRUNSRVRfS0VZPXNhbXBsZV9RN20yWDlwNEs4djNONnMxRDVmMEgyajc="
+  },
+  {
+    "id": "x10",
+    "expected": null,
+    "text_b64": "b2F1dGhfY2xpZW50X3NlY3JldD1leGFtcGxlX1E3bTJYOXA0Szh2M042czE="
+  },
+  {
+    "id": "n21",
+    "expected": null,
+    "text_b64": "U0VDUkVUX05BTUU9cHJvZHVjdGlvbi9kYXRhYmFzZQ=="
+  },
+  {
+    "id": "n22",
+    "expected": null,
+    "text_b64": "UEFTU1dPUkRfTUlOX0xFTkdUSD0xMg=="
+  },
+  {
+    "id": "n23",
+    "expected": null,
+    "text_b64": "VE9LRU5fVFRMX1NFQ09ORFM9MzYwMA=="
+  },
+  {
+    "id": "n24",
+    "expected": null,
+    "text_b64": "QVBJX0tFWV9IRUFERVI9WC1BUEktS2V5"
+  },
+  {
+    "id": "n25",
+    "expected": null,
+    "text_b64": "Y2xpZW50X3NlY3JldF9yZXF1aXJlZD10cnVl"
+  },
+  {
+    "id": "n26",
+    "expected": null,
+    "text_b64": "cHdkX2NvbnRleHQgPSBDcnlwdENvbnRleHQoc2NoZW1lcz1bImJjcnlwdCJdKQ=="
+  },
+  {
+    "id": "n27",
+    "expected": null,
+    "text_b64": "REFUQUJBU0VfVVJMPSR7REFUQUJBU0VfVVJMfQ=="
+  },
+  {
+    "id": "n28",
+    "expected": null,
+    "text_b64": "cGFzc3dvcmQ6ICR7REJfUEFTU1dPUkR9"
+  },
+  {
+    "id": "n29",
+    "expected": null,
+    "text_b64": "dG9rZW46ICR7Q0lfSk9CX1RPS0VOfQ=="
+  },
+  {
+    "id": "n30",
+    "expected": null,
+    "text_b64": "YXBpX2tleTogbnVsbA=="
+  }
+]
